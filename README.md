@@ -1,7 +1,7 @@
 # Creative Project Euler Solutions
 
 ## About
-This repository is dedicated to exploring innovative and alternative approaches to solving Project Euler's mathematical and programming challenges. It aims to provide unique solutions that go beyond standard methods, offering fresh perspectives and techniques.
+This repository is dedicated to exploring alternative approaches to solving Project Euler's mathematical and programming challenges. 
 
 ## Getting Started
 To get started with these solutions, clone this repo and navigate to the individual problem folders:
