@@ -5,7 +5,7 @@ This repository is dedicated to exploring alternative approaches to solving Proj
 
 ## Getting Started
 To get started with these solutions, clone this repo and navigate to the individual problem folders:
-git clone https://github.com/wahrlichger/projectEuler/edit/main/README.md
+git clone https://github.com/wahrlichger/projectEuler
 cd projectEuler
 
 
