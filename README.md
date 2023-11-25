@@ -1,4 +1,4 @@
-# Creative Project Euler Solutions
+# Project Euler Solutions
 
 ## About
 This repository is dedicated to exploring alternative approaches to solving Project Euler's mathematical and programming challenges. 
